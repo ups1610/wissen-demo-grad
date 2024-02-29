@@ -2,9 +2,8 @@ public class Abc
 {
 	public static void main(String args[])
 	{
-		System.out.println("Have a good day");
-		System.out.println("Ram is good");
-		System.out.println("Shyam have a good day");	
-		System.out.println("Welcome Jenkins");
+		System.out.println("Hi Everyone");
+		System.out.println("This is Jenkins triggered demo");
+		System.out.println("Through Github");	
 	}
 }
